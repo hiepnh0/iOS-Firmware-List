@@ -1,5 +1,6 @@
 {
    "iPhone3,1":"iPhone3,1_7.1.2_11D257_Restore.ipsw",
+   "iPhone4,1":"iPhone4,1_9.3.6_13G37_Restore.ipsw",
    "iPhone5,1":"iPhone_4.0_32bit_10.3.4_14G61_Restore.ipsw",
    "iPhone5,2":"iPhone_4.0_32bit_10.3.4_14G61_Restore.ipsw",
    "iPhone6,1":"iPhone_4.0_64bit_12.4.6_16G183_Restore.ipsw",
