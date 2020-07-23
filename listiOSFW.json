@@ -15,103 +15,98 @@
     "SHA1 Hash": "2f88a216491667ce33e768ab54752d9d0f53dc20"
   },
   {
-    "Keys": "iPhone5,3iPhone5,4",
-    "Download URL": "iPhone_4.0_32bit_10.3.3_14G60_Restore.ipsw",
-    "SHA1 Hash": "db8a4d22bda6b9a88b429eb439b5721ceb4e9fd3"
-  },
-  {
     "Keys": "Keys",
     "Download URL": "Download URL",
     "SHA1 Hash": "SHA1 Hash"
   },
   {
     "Keys": "iPhone6,1iPhone6,2",
-    "Download URL": "iPhone_4.0_64bit_12.4.7_16G192_Restore.ipsw",
-    "SHA1 Hash": "4d69c52e055138daa43f4fe797dcc485ef91bba8"
+    "Download URL": "iPhone_4.0_64bit_12.4.8_16G201_Restore.ipsw",
+    "SHA1 Hash": "08dfb2e3e59225ea30ba7a601805f1f3b01a78b6"
   },
   {
     "Keys": "iPhone7,2",
-    "Download URL": "iPhone_4.7_12.4.7_16G192_Restore.ipsw",
-    "SHA1 Hash": "f0ab83b88f22ff3ccf16cf61ac858c54f57d74bf"
+    "Download URL": "iPhone_4.7_12.4.8_16G201_Restore.ipsw",
+    "SHA1 Hash": "c7cc65b58db23011f96d1dd64103f9796e04843e"
   },
   {
     "Keys": "iPhone7,1",
-    "Download URL": "iPhone_5.5_12.4.7_16G192_Restore.ipsw",
-    "SHA1 Hash": "5b9ccbc5844c573b92545b80ed304a976f746b21"
+    "Download URL": "iPhone_5.5_12.4.8_16G201_Restore.ipsw",
+    "SHA1 Hash": "fa80a320a22ca0e708ba5301334b3688741f4dcd"
   },
   {
     "Keys": "iPhone8,1",
-    "Download URL": "iPhone_4.7_13.5.1_17F80_Restore.ipsw",
-    "SHA1 Hash": "6b6d13128fcbd0229ae7bd9c4e618bd82c4609ef"
+    "Download URL": "iPhone_4.7_13.6_17G68_Restore.ipsw",
+    "SHA1 Hash": "562d1a78e8e64cde62229a8280631d15478eedfa"
   },
   {
     "Keys": "iPhone8,2",
-    "Download URL": "iPhone_5.5_13.5.1_17F80_Restore.ipsw",
-    "SHA1 Hash": "20319108c677170882b004a8aa1ec150d6c182a1"
+    "Download URL": "iPhone_5.5_13.6_17G68_Restore.ipsw",
+    "SHA1 Hash": "cb511c9c82a5c2c338baafe0179c37a4b2ad3893"
   },
   {
     "Keys": "iPhone8,4",
-    "Download URL": "iPhone_4.0_64bit_13.5.1_17F80_Restore.ipsw",
-    "SHA1 Hash": "ed798a3b035a026a2bffd664e8aa0b9192323aab"
+    "Download URL": "iPhone_4.0_64bit_13.6_17G68_Restore.ipsw",
+    "SHA1 Hash": "95c31dd6ab3fc47e75cacb33703fceaeccae42cf"
   },
   {
     "Keys": "iPhone9,1iPhone9,3",
-    "Download URL": "iPhone_4.7_P3_13.5.1_17F80_Restore.ipsw",
-    "SHA1 Hash": "bf7dead7f0dcba01f7777cd88ec3a7c4e5cb8676"
+    "Download URL": "iPhone_4.7_P3_13.6_17G68_Restore.ipsw",
+    "SHA1 Hash": "841bc963d9c06973f3bad9a9e092edb02ea59661"
   },
   {
     "Keys": "iPhone9,2iPhone9,4",
-    "Download URL": "iPhone_5.5_P3_13.5.1_17F80_Restore.ipsw",
-    "SHA1 Hash": "b3370017bc2ad2245a1dd86a524766cb4f9c67c3"
+    "Download URL": "iPhone_5.5_P3_13.6_17G68_Restore.ipsw",
+    "SHA1 Hash": "5c436992cda09b2a84e5748f0adad409b5af5e47"
   },
   {
     "Keys": "iPhone10,1iPhone10,4",
-    "Download URL": "iPhone_4.7_P3_13.5.1_17F80_Restore.ipsw",
-    "SHA1 Hash": "bf7dead7f0dcba01f7777cd88ec3a7c4e5cb8676"
+    "Download URL": "iPhone_4.7_P3_13.6_17G68_Restore.ipsw",
+    "SHA1 Hash": "841bc963d9c06973f3bad9a9e092edb02ea59661"
   },
   {
     "Keys": "iPhone10,2iPhone10,5",
-    "Download URL": "iPhone_5.5_P3_13.5.1_17F80_Restore.ipsw",
-    "SHA1 Hash": "b3370017bc2ad2245a1dd86a524766cb4f9c67c3"
+    "Download URL": "iPhone_5.5_P3_13.6_17G68_Restore.ipsw",
+    "SHA1 Hash": "5c436992cda09b2a84e5748f0adad409b5af5e47"
   },
   {
     "Keys": "iPhone10,3iPhone10,6",
-    "Download URL": "iPhone10,3,iPhone10,6_13.5.1_17F80_Restore.ipsw",
-    "SHA1 Hash": "0d11c3e2742c2bbd13df57f258b093efd85e1588"
+    "Download URL": "iPhone10,3,iPhone10,6_13.6_17G68_Restore.ipsw",
+    "SHA1 Hash": "afc6f36bcca8a906c344f1ad89c4143bea82741e"
   },
   {
     "Keys": "iPhone11,8",
-    "Download URL": "iPhone11,8,iPhone12,1_13.5.1_17F80_Restore.ipsw",
-    "SHA1 Hash": "6f6e4d336c0c34e82ed5b9139caa4a5905f5dec3"
+    "Download URL": "iPhone11,8,iPhone12,1_13.6_17G68_Restore.ipsw",
+    "SHA1 Hash": "423874fa312cb711017a9c7bf28a5cef86769638"
   },
   {
     "Keys": "iPhone11,2",
-    "Download URL": "iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_13.5.1_17F80_Restore.ipsw",
-    "SHA1 Hash": "4de832442f8afe6101bac2a856bd6c10ce029f8e"
+    "Download URL": "iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_13.6_17G68_Restore.ipsw",
+    "SHA1 Hash": "183b0aa52e7a4f071336214802c5d2f4c4083876"
   },
   {
     "Keys": "iPhone11,4iPhone11,6",
-    "Download URL": "iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_13.5.1_17F80_Restore.ipsw",
-    "SHA1 Hash": "4de832442f8afe6101bac2a856bd6c10ce029f8e"
+    "Download URL": "iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_13.6_17G68_Restore.ipsw",
+    "SHA1 Hash": "183b0aa52e7a4f071336214802c5d2f4c4083876"
   },
   {
     "Keys": "iPhone12,1",
-    "Download URL": "iPhone11,8,iPhone12,1_13.5.1_17F80_Restore.ipsw",
-    "SHA1 Hash": "6f6e4d336c0c34e82ed5b9139caa4a5905f5dec3"
+    "Download URL": "iPhone11,8,iPhone12,1_13.6_17G68_Restore.ipsw",
+    "SHA1 Hash": "423874fa312cb711017a9c7bf28a5cef86769638"
   },
   {
     "Keys": "iPhone12,3",
-    "Download URL": "iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_13.5.1_17F80_Restore.ipsw",
-    "SHA1 Hash": "4de832442f8afe6101bac2a856bd6c10ce029f8e"
+    "Download URL": "iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_13.6_17G68_Restore.ipsw",
+    "SHA1 Hash": "183b0aa52e7a4f071336214802c5d2f4c4083876"
   },
   {
     "Keys": "iPhone12,5",
-    "Download URL": "iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_13.5.1_17F80_Restore.ipsw",
-    "SHA1 Hash": "4de832442f8afe6101bac2a856bd6c10ce029f8e"
+    "Download URL": "iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_13.6_17G68_Restore.ipsw",
+    "SHA1 Hash": "183b0aa52e7a4f071336214802c5d2f4c4083876"
   },
   {
     "Keys": "iPhone12,8",
-    "Download URL": "iPhone12,8_13.5.1_17F80_Restore.ipsw",
-    "SHA1 Hash": "b1975ca37fc584ea7fd8490c0038209fa8f5a53b"
+    "Download URL": "iPhone12,8_13.6_17G68_Restore.ipsw",
+    "SHA1 Hash": "c7e2c77d7fbdaac318c6210a682911bc4b5b469d"
   }
 ]
