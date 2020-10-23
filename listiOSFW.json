@@ -126,17 +126,10 @@
     "Download URL": "iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_14.1_18A8395_Restore.ipsw"
   },
   {
-    "ProductName": "iPhone XS Max 11,4",
-    "link": "https://updates.cdn-apple.com/2020SummerFCS/fullrestores/001-50347/70300CF7-57F4-4469-8DE5-4C36310594B9/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.0.1_18A393_Restore.ipsw",
-    "SHA1 Hash": "070a466cbc0e4387c7a5013bb3c3788229534a4d",
-    "Keys": "iPhone11,4",
-    "Download URL": "iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.0.1_18A393_Restore.ipsw"
-  },
-  {
     "ProductName": "iPhone XS Max",
     "link": "http://updates-http.cdn-apple.com/2020SummerFCS/fullrestores/001-56818/6B759F96-8259-4644-92A0-771C9E21E965/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_14.1_18A8395_Restore.ipsw",
     "SHA1 Hash": "cbed9d4bd8c8f54fa376759dbf0954746fcc90ee",
-    "Keys": "iPhone11,6",
+    "Keys": "iPhone11,4iPhone11,6",
     "Download URL": "iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_14.1_18A8395_Restore.ipsw"
   },
   {
