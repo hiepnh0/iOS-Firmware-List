@@ -1,191 +1,198 @@
 [
   {
-    "link": "http://appldnld.apple.com/iOS7.1/031-4812.20140627.cq6y8/iPhone3,1_7.1.2_11D257_Restore.ipsw",
-    "Keys": "iPhone3,1",
-    "ProductName": "iPhone 4",
-    "Download URL": "iPhone3,1_7.1.2_11D257_Restore.ipsw",
-    "SHA1 Hash": "81da17b3e893a61508fe203849b7e1f60e2127b1"
-  },
+    "Keys": "iPhone3,1", 
+    "link": "http://appldnld.apple.com/iOS7.1/031-4812.20140627.cq6y8/iPhone3,1_7.1.2_11D257_Restore.ipsw", 
+    "Download URL": "iPhone3,1_7.1.2_11D257_Restore.ipsw", 
+    "SHA1 Hash": "81da17b3e893a61508fe203849b7e1f60e2127b1", 
+    "ProductName": "iPhone 4"
+  }, 
   {
-    "link": "http://updates-http.cdn-apple.com/2019/ios/041-80043-20190722-6C65AD27-69D8-499C-BC15-DE7AC74DE2BD/iPhone4,1_9.3.6_13G37_Restore.ipsw",
-    "Keys": "iPhone4,1",
-    "ProductName": "iPhone 4S",
-    "Download URL": "iPhone4,1_9.3.6_13G37_Restore.ipsw",
-    "SHA1 Hash": "6ccddbfdf4a0d6747924252d379ad6d52f7d4ea8"
-  },
+    "Keys": "iPhone4,1", 
+    "link": "http://updates-http.cdn-apple.com/2019/ios/041-80043-20190722-6C65AD27-69D8-499C-BC15-DE7AC74DE2BD/iPhone4,1_9.3.6_13G37_Restore.ipsw", 
+    "Download URL": "iPhone4,1_9.3.6_13G37_Restore.ipsw", 
+    "SHA1 Hash": "6ccddbfdf4a0d6747924252d379ad6d52f7d4ea8", 
+    "ProductName": "iPhone 4S"
+  }, 
   {
-    "link": "http://updates-http.cdn-apple.com/2019/ios/091-25277-20190722-0C1B94DE-992C-11E9-A2EE-E2C9A77C2E40/iPhone_4.0_32bit_10.3.4_14G61_Restore.ipsw",
-    "Keys": "iPhone5,1iPhone5,2",
-    "ProductName": "iPhone 5",
-    "Download URL": "iPhone_4.0_32bit_10.3.4_14G61_Restore.ipsw",
-    "SHA1 Hash": "2f88a216491667ce33e768ab54752d9d0f53dc20"
-  },
+    "Keys": "iPhone5,1iPhone5,2", 
+    "link": "http://updates-http.cdn-apple.com/2019/ios/091-25277-20190722-0C1B94DE-992C-11E9-A2EE-E2C9A77C2E40/iPhone_4.0_32bit_10.3.4_14G61_Restore.ipsw", 
+    "Download URL": "iPhone_4.0_32bit_10.3.4_14G61_Restore.ipsw", 
+    "SHA1 Hash": "2f88a216491667ce33e768ab54752d9d0f53dc20", 
+    "ProductName": "iPhone 5"
+  }, 
   {
-    "link": "http://appldnld.apple.com/ios10.3.3/091-23384-20170719-CA966D80-6977-11E7-9F96-3E9100BA0AE3/iPhone_4.0_32bit_10.3.3_14G60_Restore.ipsw",
-    "Keys": "iPhone5,3iPhone5,4",
-    "ProductName": "iPhone 5c",
-    "Download URL": "iPhone_4.0_32bit_10.3.3_14G60_Restore.ipsw",
-    "SHA1 Hash": "db8a4d22bda6b9a88b429eb439b5721ceb4e9fd3"
-  },
+    "Keys": "iPhone5,3iPhone5,4", 
+    "link": "http://appldnld.apple.com/ios10.3.3/091-23384-20170719-CA966D80-6977-11E7-9F96-3E9100BA0AE3/iPhone_4.0_32bit_10.3.3_14G60_Restore.ipsw", 
+    "Download URL": "iPhone_4.0_32bit_10.3.3_14G60_Restore.ipsw", 
+    "SHA1 Hash": "db8a4d22bda6b9a88b429eb439b5721ceb4e9fd3", 
+    "ProductName": "iPhone 5c"
+  }, 
   {
-    "link": "",
-    "Keys": "Keys",
-    "ProductName": "",
-    "Download URL": "Download URL",
-    "SHA1 Hash": "SHA1 Hash"
-  },
+    "Keys": "Keys", 
+    "link": "", 
+    "Download URL": "Download URL", 
+    "SHA1 Hash": "SHA1 Hash", 
+    "ProductName": ""
+  }, 
   {
-    "link": "http://updates-http.cdn-apple.com/2020FallFCS/fullrestores/001-73613/DB79DB39-6F74-483B-8513-BE3EC69495B4/iPhone_4.0_64bit_12.4.9_16H5_Restore.ipsw",
-    "Keys": "iPhone6,1iPhone6,2",
-    "ProductName": "iPhone 5s",
-    "Download URL": "iPhone_4.0_64bit_12.4.9_16H5_Restore.ipsw",
-    "SHA1 Hash": "96edb4221812d14092a5208f5c0a8a67ef6f4bdb"
-  },
+    "Keys": "iPhone6,1iPhone6,2", 
+    "link": "http://updates-http.cdn-apple.com/2020WinterFCS/fullrestores/001-79503/57ABF53D-B497-4462-9A8D-39CF1826D8A5/iPhone_4.0_64bit_12.5_16H20_Restore.ipsw", 
+    "Download URL": "iPhone_4.0_64bit_12.5_16H20_Restore.ipsw", 
+    "SHA1 Hash": "2138cde9e348f08cca562500eed153ce1f5bfeb3", 
+    "ProductName": "iPhone 5s"
+  }, 
   {
-    "link": "http://updates-http.cdn-apple.com/2020FallFCS/fullrestores/001-73435/24D71947-C37D-4A9F-A958-340EDCA61AC4/iPhone_4.7_12.4.9_16H5_Restore.ipsw",
-    "Keys": "iPhone7,2",
-    "ProductName": "iPhone 6",
-    "Download URL": "iPhone_4.7_12.4.9_16H5_Restore.ipsw",
-    "SHA1 Hash": "efe4e4471554c47a6d07c369b0c9464666970349"
-  },
+    "Keys": "iPhone7,2", 
+    "link": "http://updates-http.cdn-apple.com/2020WinterFCS/fullrestores/001-79611/05865CEE-133B-4719-9B5C-0897D6FDE36D/iPhone_4.7_12.5_16H20_Restore.ipsw", 
+    "Download URL": "iPhone_4.7_12.5_16H20_Restore.ipsw", 
+    "SHA1 Hash": "a68e32065311efa41c3a6f9988387fb1672efad7", 
+    "ProductName": "iPhone 6"
+  }, 
   {
-    "link": "http://updates-http.cdn-apple.com/2020FallFCS/fullrestores/001-73787/B75EC5A7-8ACE-48F9-A2ED-8AEE0EAA2A49/iPhone_5.5_12.4.9_16H5_Restore.ipsw",
-    "Keys": "iPhone7,1",
-    "ProductName": "iPhone 6 Plus",
-    "Download URL": "iPhone_5.5_12.4.9_16H5_Restore.ipsw",
-    "SHA1 Hash": "5d208ad978df2909d60d0354b437d0d7107a8f4c"
-  },
+    "Keys": "iPhone7,1", 
+    "link": "http://updates-http.cdn-apple.com/2020WinterFCS/fullrestores/001-79659/5CFBFF44-D78B-40B1-8260-719E7D8C764D/iPhone_5.5_12.5_16H20_Restore.ipsw", 
+    "Download URL": "iPhone_5.5_12.5_16H20_Restore.ipsw", 
+    "SHA1 Hash": "af8fbe97b74126187f0151603e1e3810c6335a1a", 
+    "ProductName": "iPhone 6 Plus"
+  }, 
   {
-    "link": "http://updates-http.cdn-apple.com/2020FallFCS/fullrestores/001-74349/0C621890-0FAD-44D1-892E-642285808D95/iPhone_4.7_14.2_18B92_Restore.ipsw",
-    "Keys": "iPhone8,1",
-    "ProductName": "iPhone 6s",
-    "Download URL": "iPhone_4.7_14.2_18B92_Restore.ipsw",
-    "SHA1 Hash": "459364ab61414b63eb41bf940d63756999b4f23b"
-  },
+    "Keys": "iPhone8,1", 
+    "link": "http://updates-http.cdn-apple.com/2020WinterFCS/fullrestores/001-87647/45E44665-BF0B-4096-BE86-B6C9DAAD0767/iPhone_4.7_14.3_18C66_Restore.ipsw", 
+    "Download URL": "iPhone_4.7_14.3_18C66_Restore.ipsw", 
+    "SHA1 Hash": "dfd7d0167a49ac3138beec24998ae5cd9355df7b", 
+    "ProductName": "iPhone 6s"
+  }, 
   {
-    "link": "http://updates-http.cdn-apple.com/2020FallFCS/fullrestores/001-74145/DB71AABA-8784-4680-966C-DAFF3A7ACC8A/iPhone_5.5_14.2_18B92_Restore.ipsw",
-    "Keys": "iPhone8,2",
-    "ProductName": "iPhone 6s Plus",
-    "Download URL": "iPhone_5.5_14.2_18B92_Restore.ipsw",
-    "SHA1 Hash": "05d3681fd9fe684d5ef7800b6b3be94ebd2f8cc9"
-  },
+    "Keys": "iPhone8,2", 
+    "link": "http://updates-http.cdn-apple.com/2020WinterFCS/fullrestores/001-87399/7F11E8E2-E84B-4B13-B65A-C7F7A96482CC/iPhone_5.5_14.3_18C66_Restore.ipsw", 
+    "Download URL": "iPhone_5.5_14.3_18C66_Restore.ipsw", 
+    "SHA1 Hash": "4d3ae504d0b117caf594d10b6fe12766f8179e45", 
+    "ProductName": "iPhone 6s Plus"
+  }, 
   {
-    "link": "http://updates-http.cdn-apple.com/2020FallFCS/fullrestores/001-73514/35E32EBD-47C9-4B2D-81FA-8B16A2A56BDF/iPhone_4.0_64bit_14.2_18B92_Restore.ipsw",
-    "Keys": "iPhone8,4",
-    "ProductName": "iPhone SE (1st generation)",
-    "Download URL": "iPhone_4.0_64bit_14.2_18B92_Restore.ipsw",
-    "SHA1 Hash": "998e62247c6262f6a607f8c8c39be55d5dc3e6a5"
-  },
+    "Keys": "iPhone8,4", 
+    "link": "http://updates-http.cdn-apple.com/2020WinterFCS/fullrestores/001-87784/F2090AE5-378C-4BBB-AEAC-C9A910831BD3/iPhone_4.0_64bit_14.3_18C66_Restore.ipsw", 
+    "Download URL": "iPhone_4.0_64bit_14.3_18C66_Restore.ipsw", 
+    "SHA1 Hash": "9b4ae780ba8c877150ca1bc75df64b45dd03eaf1", 
+    "ProductName": "iPhone SE (1st generation)"
+  }, 
   {
-    "link": "http://updates-http.cdn-apple.com/2020FallFCS/fullrestores/001-73235/F3523283-631D-4F7F-95C2-59AACA780D8D/iPhone_4.7_P3_14.2_18B92_Restore.ipsw",
-    "Keys": "iPhone9,1iPhone9,3",
-    "ProductName": "iPhone 7",
-    "Download URL": "iPhone_4.7_P3_14.2_18B92_Restore.ipsw",
-    "SHA1 Hash": "e8b37c05baf8226f9c3a9c620fbcb42f749718d5"
-  },
+    "Keys": "iPhone9,1iPhone9,3", 
+    "link": "http://updates-http.cdn-apple.com/2020WinterFCS/fullrestores/001-87486/23310DA1-A434-4192-87BC-31429FD2D625/iPhone_4.7_P3_14.3_18C66_Restore.ipsw", 
+    "Download URL": "iPhone_4.7_P3_14.3_18C66_Restore.ipsw", 
+    "SHA1 Hash": "4767bfce4d0a1b1d76ed28c77efa4216829e8dfd", 
+    "ProductName": "iPhone 7"
+  }, 
   {
-    "link": "http://updates-http.cdn-apple.com/2020FallFCS/fullrestores/001-73463/03823801-1500-48ED-A49D-251DD6B8C4E2/iPhone_5.5_P3_14.2_18B92_Restore.ipsw",
-    "Keys": "iPhone9,2iPhone9,4",
-    "ProductName": "iPhone 7 Plus",
-    "Download URL": "iPhone_5.5_P3_14.2_18B92_Restore.ipsw",
-    "SHA1 Hash": "b5ad6d52160e66722b15e1648c6658b27cce1d80"
-  },
+    "Keys": "iPhone9,2iPhone9,4", 
+    "link": "http://updates-http.cdn-apple.com/2020WinterFCS/fullrestores/001-87451/EE6AEB4B-1BF7-4FBF-9D29-A8C7B970B495/iPhone_5.5_P3_14.3_18C66_Restore.ipsw", 
+    "Download URL": "iPhone_5.5_P3_14.3_18C66_Restore.ipsw", 
+    "SHA1 Hash": "bdfd37adb3d7e22ba091e71a560441130d55742a", 
+    "ProductName": "iPhone 7 Plus"
+  }, 
   {
-    "link": "http://updates-http.cdn-apple.com/2020FallFCS/fullrestores/001-73235/F3523283-631D-4F7F-95C2-59AACA780D8D/iPhone_4.7_P3_14.2_18B92_Restore.ipsw",
-    "Keys": "iPhone10,1iPhone10,4",
-    "ProductName": "iPhone 8",
-    "Download URL": "iPhone_4.7_P3_14.2_18B92_Restore.ipsw",
-    "SHA1 Hash": "e8b37c05baf8226f9c3a9c620fbcb42f749718d5"
-  },
+    "Keys": "iPhone10,1iPhone10,4", 
+    "link": "http://updates-http.cdn-apple.com/2020WinterFCS/fullrestores/001-87486/23310DA1-A434-4192-87BC-31429FD2D625/iPhone_4.7_P3_14.3_18C66_Restore.ipsw", 
+    "Download URL": "iPhone_4.7_P3_14.3_18C66_Restore.ipsw", 
+    "SHA1 Hash": "4767bfce4d0a1b1d76ed28c77efa4216829e8dfd", 
+    "ProductName": "iPhone 8"
+  }, 
   {
-    "link": "http://updates-http.cdn-apple.com/2020FallFCS/fullrestores/001-73463/03823801-1500-48ED-A49D-251DD6B8C4E2/iPhone_5.5_P3_14.2_18B92_Restore.ipsw",
-    "Keys": "iPhone10,2iPhone10,5",
-    "ProductName": "iPhone 8 Plus",
-    "Download URL": "iPhone_5.5_P3_14.2_18B92_Restore.ipsw",
-    "SHA1 Hash": "b5ad6d52160e66722b15e1648c6658b27cce1d80"
-  },
+    "Keys": "iPhone10,2iPhone10,5", 
+    "link": "http://updates-http.cdn-apple.com/2020WinterFCS/fullrestores/001-87451/EE6AEB4B-1BF7-4FBF-9D29-A8C7B970B495/iPhone_5.5_P3_14.3_18C66_Restore.ipsw", 
+    "Download URL": "iPhone_5.5_P3_14.3_18C66_Restore.ipsw", 
+    "SHA1 Hash": "bdfd37adb3d7e22ba091e71a560441130d55742a", 
+    "ProductName": "iPhone 8 Plus"
+  }, 
   {
-    "link": "http://updates-http.cdn-apple.com/2020FallFCS/fullrestores/001-74652/EE41A4BE-D95B-4A2D-A734-F8ACAC1C61AA/iPhone10,3,iPhone10,6_14.2_18B92_Restore.ipsw",
-    "Keys": "iPhone10,3iPhone10,6",
-    "ProductName": "iPhone X",
-    "Download URL": "iPhone10,3,iPhone10,6_14.2_18B92_Restore.ipsw",
-    "SHA1 Hash": "eb4fa9f339a780fdc181021ec9db6fd4962e71b6"
-  },
+    "Keys": "iPhone10,3iPhone10,6", 
+    "link": "http://updates-http.cdn-apple.com/2020WinterFCS/fullrestores/001-87865/458334F5-D8E1-498A-A9FD-08BBD20FE007/iPhone10,3,iPhone10,6_14.3_18C66_Restore.ipsw", 
+    "Download URL": "iPhone10,3,iPhone10,6_14.3_18C66_Restore.ipsw", 
+    "SHA1 Hash": "c87cd9b31fd8adcd779cdcd7ac9eb15d33883cfc", 
+    "ProductName": "iPhone X"
+  }, 
   {
-    "link": "http://updates-http.cdn-apple.com/2020FallFCS/fullrestores/001-74185/3DB75B43-0E6D-4474-9165-8F9386F50DD9/iPhone11,8,iPhone12,1_14.2_18B92_Restore.ipsw",
-    "Keys": "iPhone11,8",
-    "ProductName": "iPhone XR",
-    "Download URL": "iPhone11,8,iPhone12,1_14.2_18B92_Restore.ipsw",
-    "SHA1 Hash": "a4f1ef73554d6a0b1788428952e4f0baf4067d5d"
-  },
+    "Keys": "iPhone11,8", 
+    "link": "http://updates-http.cdn-apple.com/2020WinterFCS/fullrestores/001-87267/C892DBD9-83E0-4538-95A8-5E9E45C4F095/iPhone11,8,iPhone12,1_14.3_18C66_Restore.ipsw", 
+    "Download URL": "iPhone11,8,iPhone12,1_14.3_18C66_Restore.ipsw", 
+    "SHA1 Hash": "b4ba7ccad716409e8151cae9743cfb78c59eb753", 
+    "ProductName": "iPhone XR"
+  }, 
   {
-    "link": "http://updates-http.cdn-apple.com/2020FallFCS/fullrestores/001-74658/96D473B0-9ADD-4A40-8DB3-38892C812FDE/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.2_18B92_Restore.ipsw",
-    "Keys": "iPhone11,2",
-    "ProductName": "iPhone XS",
-    "Download URL": "iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.2_18B92_Restore.ipsw",
-    "SHA1 Hash": "9d61ace9c17a36f395fbb71ee0bea8d687eaff5d"
-  },
+    "Keys": "iPhone11,2", 
+    "link": "http://updates-http.cdn-apple.com/2020WinterFCS/fullrestores/001-87493/276DDA26-A771-413E-8BAF-FD7409E1897C/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.3_18C66_Restore.ipsw", 
+    "Download URL": "iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.3_18C66_Restore.ipsw", 
+    "SHA1 Hash": "2938954dd34ecdd9aab2d10bae05524a3b634f4b", 
+    "ProductName": "iPhone XS"
+  }, 
   {
-    "link": "http://updates-http.cdn-apple.com/2020FallFCS/fullrestores/001-74658/96D473B0-9ADD-4A40-8DB3-38892C812FDE/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.2_18B92_Restore.ipsw",
-    "Keys": "iPhone11,4iPhone11,6",
-    "ProductName": "iPhone XS Max",
-    "Download URL": "iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.2_18B92_Restore.ipsw",
-    "SHA1 Hash": "9d61ace9c17a36f395fbb71ee0bea8d687eaff5d"
-  },
+    "Keys": "iPhone11,6", 
+    "link": "http://updates-http.cdn-apple.com/2020WinterFCS/fullrestores/001-87493/276DDA26-A771-413E-8BAF-FD7409E1897C/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.3_18C66_Restore.ipsw", 
+    "Download URL": "iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.3_18C66_Restore.ipsw", 
+    "SHA1 Hash": "2938954dd34ecdd9aab2d10bae05524a3b634f4b", 
+    "ProductName": "iPhone XS Max"
+  }, 
   {
-    "link": "http://updates-http.cdn-apple.com/2020FallFCS/fullrestores/001-74185/3DB75B43-0E6D-4474-9165-8F9386F50DD9/iPhone11,8,iPhone12,1_14.2_18B92_Restore.ipsw",
-    "Keys": "iPhone12,1",
-    "ProductName": "iPhone 11",
-    "Download URL": "iPhone11,8,iPhone12,1_14.2_18B92_Restore.ipsw",
-    "SHA1 Hash": "a4f1ef73554d6a0b1788428952e4f0baf4067d5d"
-  },
+    "Keys": "iPhone11,4iPhone11,6", 
+    "link": "http://updates-http.cdn-apple.com/2020WinterFCS/fullrestores/001-87493/276DDA26-A771-413E-8BAF-FD7409E1897C/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.3_18C66_Restore.ipsw", 
+    "Download URL": "iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.3_18C66_Restore.ipsw", 
+    "SHA1 Hash": "2938954dd34ecdd9aab2d10bae05524a3b634f4b", 
+    "ProductName": "iPhone XS Max"
+  }, 
   {
-    "link": "http://updates-http.cdn-apple.com/2020FallFCS/fullrestores/001-74658/96D473B0-9ADD-4A40-8DB3-38892C812FDE/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.2_18B92_Restore.ipsw",
-    "Keys": "iPhone12,3",
-    "ProductName": "iPhone 11 Pro",
-    "Download URL": "iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.2_18B92_Restore.ipsw",
-    "SHA1 Hash": "9d61ace9c17a36f395fbb71ee0bea8d687eaff5d"
-  },
+    "Keys": "iPhone12,1", 
+    "link": "http://updates-http.cdn-apple.com/2020WinterFCS/fullrestores/001-87267/C892DBD9-83E0-4538-95A8-5E9E45C4F095/iPhone11,8,iPhone12,1_14.3_18C66_Restore.ipsw", 
+    "Download URL": "iPhone11,8,iPhone12,1_14.3_18C66_Restore.ipsw", 
+    "SHA1 Hash": "b4ba7ccad716409e8151cae9743cfb78c59eb753", 
+    "ProductName": "iPhone 11"
+  }, 
   {
-    "link": "http://updates-http.cdn-apple.com/2020FallFCS/fullrestores/001-74658/96D473B0-9ADD-4A40-8DB3-38892C812FDE/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.2_18B92_Restore.ipsw",
-    "Keys": "iPhone12,5",
-    "ProductName": "iPhone 11 Pro Max",
-    "Download URL": "iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.2_18B92_Restore.ipsw",
-    "SHA1 Hash": "9d61ace9c17a36f395fbb71ee0bea8d687eaff5d"
-  },
+    "Keys": "iPhone12,3", 
+    "link": "http://updates-http.cdn-apple.com/2020WinterFCS/fullrestores/001-87493/276DDA26-A771-413E-8BAF-FD7409E1897C/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.3_18C66_Restore.ipsw", 
+    "Download URL": "iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.3_18C66_Restore.ipsw", 
+    "SHA1 Hash": "2938954dd34ecdd9aab2d10bae05524a3b634f4b", 
+    "ProductName": "iPhone 11 Pro"
+  }, 
   {
-    "link": "http://updates-http.cdn-apple.com/2020FallFCS/fullrestores/001-73415/2F802334-F9B4-4A28-8D40-5B6B1458662A/iPhone12,8_14.2_18B92_Restore.ipsw",
-    "Keys": "iPhone12,8",
-    "ProductName": "iPhone SE (2nd generation)",
-    "Download URL": "iPhone12,8_14.2_18B92_Restore.ipsw",
-    "SHA1 Hash": "ad50ccd99e442f87edecc0f10edc033d99a49abe"
-  },
+    "Keys": "iPhone12,5", 
+    "link": "http://updates-http.cdn-apple.com/2020WinterFCS/fullrestores/001-87493/276DDA26-A771-413E-8BAF-FD7409E1897C/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.3_18C66_Restore.ipsw", 
+    "Download URL": "iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.3_18C66_Restore.ipsw", 
+    "SHA1 Hash": "2938954dd34ecdd9aab2d10bae05524a3b634f4b", 
+    "ProductName": "iPhone 11 Pro Max"
+  }, 
   {
-    "link": "http://updates-http.cdn-apple.com/2020FallFCS/fullrestores/001-74440/B38A0C29-D3AF-4BA6-8B47-F379EFFAC78B/iPhone13,1_14.2_18B92_Restore.ipsw",
-    "Keys": "iPhone13,1",
-    "ProductName": "iPhone 12 mini",
-    "Download URL": "iPhone13,1_14.2_18B92_Restore.ipsw",
-    "SHA1 Hash": "ae35cb550fc58e8761cce12ec0fbef9de311a8a9"
-  },
+    "Keys": "iPhone12,8", 
+    "link": "http://updates-http.cdn-apple.com/2020WinterFCS/fullrestores/001-87462/F5819D79-DFFC-4B33-A039-5A529AB9D560/iPhone12,8_14.3_18C66_Restore.ipsw", 
+    "Download URL": "iPhone12,8_14.3_18C66_Restore.ipsw", 
+    "SHA1 Hash": "bb67f6ca937261185e4a62eb78514197f06f78d3", 
+    "ProductName": "iPhone SE (2nd generation)"
+  }, 
   {
-    "link": "http://updates-http.cdn-apple.com/2020FallFCS/fullrestores/001-73537/5FC16DB4-7E2E-4E8D-B028-98718F593928/iPhone13,2_14.2_18B92_Restore.ipsw",
-    "Keys": "iPhone13,2",
-    "ProductName": "iPhone 12",
-    "Download URL": "iPhone13,2_14.2_18B92_Restore.ipsw",
-    "SHA1 Hash": "c646357b91567b520b6cb2b8947b55593c14d03f"
-  },
+    "Keys": "iPhone13,1", 
+    "link": "http://updates-http.cdn-apple.com/2020WinterFCS/fullrestores/001-87565/8CF4B992-6846-4179-A122-47F0B49411AF/iPhone13,1_14.3_18C66_Restore.ipsw", 
+    "Download URL": "iPhone13,1_14.3_18C66_Restore.ipsw", 
+    "SHA1 Hash": "3ec17e140cb792e69b277245e053ec4b2fabc780", 
+    "ProductName": "iPhone 12 mini"
+  }, 
   {
-    "link": "http://updates-http.cdn-apple.com/2020FallFCS/fullrestores/001-74488/9842544C-8771-476E-88CF-0C03CC957843/iPhone13,3_14.2_18B92_Restore.ipsw",
-    "Keys": "iPhone13,3",
-    "ProductName": "iPhone 12 Pro",
-    "Download URL": "iPhone13,3_14.2_18B92_Restore.ipsw",
-    "SHA1 Hash": "b97ad59fa86a3f21a9b9603466fd55da2d6ba855"
-  },
+    "Keys": "iPhone13,2", 
+    "link": "http://updates-http.cdn-apple.com/2020WinterFCS/fullrestores/001-87539/94E7859E-96DE-4812-AA9F-DAE0E3D99AC1/iPhone13,2,iPhone13,3_14.3_18C66_Restore.ipsw", 
+    "Download URL": "iPhone13,2,iPhone13,3_14.3_18C66_Restore.ipsw", 
+    "SHA1 Hash": "40bca4baa613f199f11f079aa3f549e21afca291", 
+    "ProductName": "iPhone 12"
+  }, 
   {
-    "link": "http://updates-http.cdn-apple.com/2020FallFCS/fullrestores/001-74367/AF429F67-962D-4051-80C2-5B41CD655702/iPhone13,4_14.2_18B92_Restore.ipsw",
-    "Keys": "iPhone13,4",
-    "ProductName": "iPhone 12 Pro Max",
-    "Download URL": "iPhone13,4_14.2_18B92_Restore.ipsw",
-    "SHA1 Hash": "167b4e98a99ca54a44ab581104d26f83c9ed328f"
+    "Keys": "iPhone13,3", 
+    "link": "http://updates-http.cdn-apple.com/2020WinterFCS/fullrestores/001-87539/94E7859E-96DE-4812-AA9F-DAE0E3D99AC1/iPhone13,2,iPhone13,3_14.3_18C66_Restore.ipsw", 
+    "Download URL": "iPhone13,2,iPhone13,3_14.3_18C66_Restore.ipsw", 
+    "SHA1 Hash": "40bca4baa613f199f11f079aa3f549e21afca291", 
+    "ProductName": "iPhone 12 Pro"
+  }, 
+  {
+    "Keys": "iPhone13,4", 
+    "link": "http://updates-http.cdn-apple.com/2020WinterFCS/fullrestores/001-87123/7B3F41C1-33C0-45FA-9E1F-89E7C4AB4C2D/iPhone13,4_14.3_18C66_Restore.ipsw", 
+    "Download URL": "iPhone13,4_14.3_18C66_Restore.ipsw", 
+    "SHA1 Hash": "79692fd20e96f1c5831bdd4dff0b71e46918634b", 
+    "ProductName": "iPhone 12 Pro Max"
   }
 ]
