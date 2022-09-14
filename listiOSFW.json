@@ -1,198 +1,257 @@
 [
-  {
-    "Keys": "iPhone3,1", 
-    "link": "http://appldnld.apple.com/iOS7.1/031-4812.20140627.cq6y8/iPhone3,1_7.1.2_11D257_Restore.ipsw", 
-    "Download URL": "iPhone3,1_7.1.2_11D257_Restore.ipsw", 
-    "SHA1 Hash": "81da17b3e893a61508fe203849b7e1f60e2127b1", 
-    "ProductName": "iPhone 4"
-  }, 
-  {
-    "Keys": "iPhone4,1", 
-    "link": "http://updates-http.cdn-apple.com/2019/ios/041-80043-20190722-6C65AD27-69D8-499C-BC15-DE7AC74DE2BD/iPhone4,1_9.3.6_13G37_Restore.ipsw", 
-    "Download URL": "iPhone4,1_9.3.6_13G37_Restore.ipsw", 
-    "SHA1 Hash": "6ccddbfdf4a0d6747924252d379ad6d52f7d4ea8", 
-    "ProductName": "iPhone 4S"
-  }, 
-  {
-    "Keys": "iPhone5,1iPhone5,2", 
-    "link": "http://updates-http.cdn-apple.com/2019/ios/091-25277-20190722-0C1B94DE-992C-11E9-A2EE-E2C9A77C2E40/iPhone_4.0_32bit_10.3.4_14G61_Restore.ipsw", 
-    "Download URL": "iPhone_4.0_32bit_10.3.4_14G61_Restore.ipsw", 
-    "SHA1 Hash": "2f88a216491667ce33e768ab54752d9d0f53dc20", 
-    "ProductName": "iPhone 5"
-  }, 
-  {
-    "Keys": "iPhone5,3iPhone5,4", 
-    "link": "http://appldnld.apple.com/ios10.3.3/091-23384-20170719-CA966D80-6977-11E7-9F96-3E9100BA0AE3/iPhone_4.0_32bit_10.3.3_14G60_Restore.ipsw", 
-    "Download URL": "iPhone_4.0_32bit_10.3.3_14G60_Restore.ipsw", 
-    "SHA1 Hash": "db8a4d22bda6b9a88b429eb439b5721ceb4e9fd3", 
-    "ProductName": "iPhone 5c"
-  }, 
-  {
-    "Keys": "Keys", 
-    "link": "", 
-    "Download URL": "Download URL", 
-    "SHA1 Hash": "SHA1 Hash", 
-    "ProductName": ""
-  }, 
-  {
-    "Keys": "iPhone6,1iPhone6,2", 
-    "link": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/001-90978/93A59710-7FC7-42E2-8994-A2C71BA7455D/iPhone_4.0_64bit_12.5.1_16H22_Restore.ipsw", 
-    "Download URL": "iPhone_4.0_64bit_12.5.1_16H22_Restore.ipsw", 
-    "SHA1 Hash": "a2ba4d5423ead583b31392d6555085ef1af3d310", 
-    "ProductName": "iPhone 5s"
-  }, 
-  {
-    "Keys": "iPhone7,2", 
-    "link": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/001-90777/D1E46A9D-8C08-41DA-AA56-013C1D118A57/iPhone_4.7_12.5.1_16H22_Restore.ipsw", 
-    "Download URL": "iPhone_4.7_12.5.1_16H22_Restore.ipsw", 
-    "SHA1 Hash": "afab6da896238ca5e3dd808121d770d5ea4d1078", 
-    "ProductName": "iPhone 6"
-  }, 
-  {
-    "Keys": "iPhone7,1", 
-    "link": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/001-90756/6FC2DD93-5492-4D76-B30C-450555BABE0C/iPhone_5.5_12.5.1_16H22_Restore.ipsw", 
-    "Download URL": "iPhone_5.5_12.5.1_16H22_Restore.ipsw", 
-    "SHA1 Hash": "c2f16ffb9fcd02462fc1261b83476a8fd92d53cc", 
-    "ProductName": "iPhone 6 Plus"
-  }, 
-  {
-    "Keys": "iPhone8,1", 
-    "link": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/071-11226/FFEB55F1-EF79-427D-AA63-7F8729F999D3/iPhone_4.7_14.4.1_18D61_Restore.ipsw", 
-    "Download URL": "iPhone_4.7_14.4.1_18D61_Restore.ipsw", 
-    "SHA1 Hash": "23ccf9bfec1554009317ab4a80b226874f6d8ded", 
-    "ProductName": "iPhone 6s"
-  }, 
-  {
-    "Keys": "iPhone8,2", 
-    "link": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/071-12517/F798CB90-4F40-4717-9A39-2460A6550001/iPhone_5.5_14.4.1_18D61_Restore.ipsw", 
-    "Download URL": "iPhone_5.5_14.4.1_18D61_Restore.ipsw", 
-    "SHA1 Hash": "bd95c6a568d3d96aa4294119049e5a1870b2f66f", 
-    "ProductName": "iPhone 6s Plus"
-  }, 
-  {
-    "Keys": "iPhone8,4", 
-    "link": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/071-12376/A62C52C7-B4E1-4847-A60A-5D2EE316741B/iPhone_4.0_64bit_14.4.1_18D61_Restore.ipsw", 
-    "Download URL": "iPhone_4.0_64bit_14.4.1_18D61_Restore.ipsw", 
-    "SHA1 Hash": "985261bc637fe8ef70dacdd3e519d4b0a836aa1b", 
-    "ProductName": "iPhone SE (1st generation)"
-  }, 
-  {
-    "Keys": "iPhone9,1iPhone9,3", 
-    "link": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/071-11541/649D2997-9193-4CC3-AA03-1FC08882D3F4/iPhone_4.7_P3_14.4.1_18D61_Restore.ipsw", 
-    "Download URL": "iPhone_4.7_P3_14.4.1_18D61_Restore.ipsw", 
-    "SHA1 Hash": "4b0ba95fcf4e788ca42d2b8fd510a1ac36c59abd", 
-    "ProductName": "iPhone 7"
-  }, 
-  {
-    "Keys": "iPhone9,2iPhone9,4", 
-    "link": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/071-11521/E70C4894-3B82-4A38-BE9B-CFACA587BF4F/iPhone_5.5_P3_14.4.1_18D61_Restore.ipsw", 
-    "Download URL": "iPhone_5.5_P3_14.4.1_18D61_Restore.ipsw", 
-    "SHA1 Hash": "2b404984c2e8479435aa3b093415b47bbfdd46f4", 
-    "ProductName": "iPhone 7 Plus"
-  }, 
-  {
-    "Keys": "iPhone10,1iPhone10,4", 
-    "link": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/071-11541/649D2997-9193-4CC3-AA03-1FC08882D3F4/iPhone_4.7_P3_14.4.1_18D61_Restore.ipsw", 
-    "Download URL": "iPhone_4.7_P3_14.4.1_18D61_Restore.ipsw", 
-    "SHA1 Hash": "4b0ba95fcf4e788ca42d2b8fd510a1ac36c59abd", 
-    "ProductName": "iPhone 8"
-  }, 
-  {
-    "Keys": "iPhone10,2iPhone10,5", 
-    "link": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/071-11521/E70C4894-3B82-4A38-BE9B-CFACA587BF4F/iPhone_5.5_P3_14.4.1_18D61_Restore.ipsw", 
-    "Download URL": "iPhone_5.5_P3_14.4.1_18D61_Restore.ipsw", 
-    "SHA1 Hash": "2b404984c2e8479435aa3b093415b47bbfdd46f4", 
-    "ProductName": "iPhone 8 Plus"
-  }, 
-  {
-    "Keys": "iPhone10,3iPhone10,6", 
-    "link": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/071-12049/BE18B2A9-D5B0-42D1-BFC4-25855D8D7337/iPhone10,3,iPhone10,6_14.4.1_18D61_Restore.ipsw", 
-    "Download URL": "iPhone10,3,iPhone10,6_14.4.1_18D61_Restore.ipsw", 
-    "SHA1 Hash": "15fecbc368cd7c142df609c561e0774f09f57b38", 
-    "ProductName": "iPhone X"
-  }, 
-  {
-    "Keys": "iPhone11,8", 
-    "link": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/071-12530/598B4392-EF03-4F6C-962A-3A8CC9BA9DAC/iPhone11,8,iPhone12,1_14.4.1_18D61_Restore.ipsw", 
-    "Download URL": "iPhone11,8,iPhone12,1_14.4.1_18D61_Restore.ipsw", 
-    "SHA1 Hash": "45186bb240128a11a26a2342a6efeb87cfd1c029", 
-    "ProductName": "iPhone XR"
-  }, 
-  {
-    "Keys": "iPhone11,2", 
-    "link": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/071-12431/94EB0E66-1068-4B52-8DFE-9F05C5F1DD62/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.4.1_18D61_Restore.ipsw", 
-    "Download URL": "iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.4.1_18D61_Restore.ipsw", 
-    "SHA1 Hash": "c2d4679ca5b008571805e13d26e26e75d26e583c", 
-    "ProductName": "iPhone XS"
-  }, 
-  {
-    "Keys": "iPhone11,6", 
-    "link": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/071-12431/94EB0E66-1068-4B52-8DFE-9F05C5F1DD62/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.4.1_18D61_Restore.ipsw", 
-    "Download URL": "iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.4.1_18D61_Restore.ipsw", 
-    "SHA1 Hash": "c2d4679ca5b008571805e13d26e26e75d26e583c", 
-    "ProductName": "iPhone XS Max"
-  }, 
-  {
-    "Keys": "iPhone11,4iPhone11,6", 
-    "link": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/071-12431/94EB0E66-1068-4B52-8DFE-9F05C5F1DD62/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.4.1_18D61_Restore.ipsw", 
-    "Download URL": "iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.4.1_18D61_Restore.ipsw", 
-    "SHA1 Hash": "c2d4679ca5b008571805e13d26e26e75d26e583c", 
-    "ProductName": "iPhone XS Max"
-  }, 
-  {
-    "Keys": "iPhone12,1", 
-    "link": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/071-12530/598B4392-EF03-4F6C-962A-3A8CC9BA9DAC/iPhone11,8,iPhone12,1_14.4.1_18D61_Restore.ipsw", 
-    "Download URL": "iPhone11,8,iPhone12,1_14.4.1_18D61_Restore.ipsw", 
-    "SHA1 Hash": "45186bb240128a11a26a2342a6efeb87cfd1c029", 
-    "ProductName": "iPhone 11"
-  }, 
-  {
-    "Keys": "iPhone12,3", 
-    "link": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/071-12431/94EB0E66-1068-4B52-8DFE-9F05C5F1DD62/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.4.1_18D61_Restore.ipsw", 
-    "Download URL": "iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.4.1_18D61_Restore.ipsw", 
-    "SHA1 Hash": "c2d4679ca5b008571805e13d26e26e75d26e583c", 
-    "ProductName": "iPhone 11 Pro"
-  }, 
-  {
-    "Keys": "iPhone12,5", 
-    "link": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/071-12431/94EB0E66-1068-4B52-8DFE-9F05C5F1DD62/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.4.1_18D61_Restore.ipsw", 
-    "Download URL": "iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.4.1_18D61_Restore.ipsw", 
-    "SHA1 Hash": "c2d4679ca5b008571805e13d26e26e75d26e583c", 
-    "ProductName": "iPhone 11 Pro Max"
-  }, 
-  {
-    "Keys": "iPhone12,8", 
-    "link": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/071-12041/54388907-83EF-4755-9620-4E8E002DE1AA/iPhone12,8_14.4.1_18D61_Restore.ipsw", 
-    "Download URL": "iPhone12,8_14.4.1_18D61_Restore.ipsw", 
-    "SHA1 Hash": "e72d55e828b1ea26e88881ac7ba1acd025f107ed", 
-    "ProductName": "iPhone SE (2nd generation)"
-  }, 
-  {
-    "Keys": "iPhone13,1", 
-    "link": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/071-11526/112A473F-DF2F-4715-BD22-169AD8A97575/iPhone13,1_14.4.1_18D61_Restore.ipsw", 
-    "Download URL": "iPhone13,1_14.4.1_18D61_Restore.ipsw", 
-    "SHA1 Hash": "da7d6611c22d99f6783f1bf8a85f0ae34fa9b5ee", 
-    "ProductName": "iPhone 12 mini"
-  }, 
-  {
-    "Keys": "iPhone13,2", 
-    "link": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/071-12228/72A681A8-AA4F-431F-A99D-97BE969AA30D/iPhone13,2,iPhone13,3_14.4.1_18D61_Restore.ipsw", 
-    "Download URL": "iPhone13,2,iPhone13,3_14.4.1_18D61_Restore.ipsw", 
-    "SHA1 Hash": "305f61b0c5e72dcbcf050748c500b65e5168f2f8", 
-    "ProductName": "iPhone 12"
-  }, 
-  {
-    "Keys": "iPhone13,3", 
-    "link": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/071-12228/72A681A8-AA4F-431F-A99D-97BE969AA30D/iPhone13,2,iPhone13,3_14.4.1_18D61_Restore.ipsw", 
-    "Download URL": "iPhone13,2,iPhone13,3_14.4.1_18D61_Restore.ipsw", 
-    "SHA1 Hash": "305f61b0c5e72dcbcf050748c500b65e5168f2f8", 
-    "ProductName": "iPhone 12 Pro"
-  }, 
-  {
-    "Keys": "iPhone13,4", 
-    "link": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/071-12419/BAE38821-B1DD-46C9-BC09-E20116A77F04/iPhone13,4_14.4.1_18D61_Restore.ipsw", 
-    "Download URL": "iPhone13,4_14.4.1_18D61_Restore.ipsw", 
-    "SHA1 Hash": "c20aa19718aedad2e1770c7520a2f02e1b3c71b2", 
-    "ProductName": "iPhone 12 Pro Max"
-  }
+ {
+  "Download URL" : "iPhone3,1_7.1.2_11D257_Restore.ipsw",
+  "Keys" : "iPhone3,1",
+  "ProductName" : "iPhone 4",
+  "SHA1 Hash" : "81da17b3e893a61508fe203849b7e1f60e2127b1",
+  "link" : "http://appldnld.apple.com/iOS7.1/031-4812.20140627.cq6y8/iPhone3,1_7.1.2_11D257_Restore.ipsw",
+  "size" : 1204958925
+ },
+ {
+  "Download URL" : "iPhone4,1_9.3.6_13G37_Restore.ipsw",
+  "Keys" : "iPhone4,1",
+  "ProductName" : "iPhone 4S",
+  "SHA1 Hash" : "6ccddbfdf4a0d6747924252d379ad6d52f7d4ea8",
+  "link" : "http://updates-http.cdn-apple.com/2019/ios/041-80043-20190722-6C65AD27-69D8-499C-BC15-DE7AC74DE2BD/iPhone4,1_9.3.6_13G37_Restore.ipsw",
+  "size" : 1613420044
+ },
+ {
+  "Download URL" : "iPhone_4.0_32bit_10.3.4_14G61_Restore.ipsw",
+  "Keys" : "iPhone5,1iPhone5,2",
+  "ProductName" : "iPhone 5",
+  "SHA1 Hash" : "2f88a216491667ce33e768ab54752d9d0f53dc20",
+  "link" : "http://updates-http.cdn-apple.com/2019/ios/091-25277-20190722-0C1B94DE-992C-11E9-A2EE-E2C9A77C2E40/iPhone_4.0_32bit_10.3.4_14G61_Restore.ipsw",
+  "size" : 2000796302
+ },
+ {
+  "Download URL" : "iPhone_4.0_32bit_10.3.3_14G60_Restore.ipsw",
+  "Keys" : "iPhone5,3iPhone5,4",
+  "ProductName" : "iPhone 5c",
+  "SHA1 Hash" : "db8a4d22bda6b9a88b429eb439b5721ceb4e9fd3",
+  "link" : "http://appldnld.apple.com/ios10.3.3/091-23384-20170719-CA966D80-6977-11E7-9F96-3E9100BA0AE3/iPhone_4.0_32bit_10.3.3_14G60_Restore.ipsw",
+  "size" : 2000885186
+ },
+ {
+  "Download URL" : "Download URL",
+  "Keys" : "Keys",
+  "ProductName" : "",
+  "SHA1 Hash" : "SHA1 Hash",
+  "link" : ""
+ },
+ {
+  "Download URL" : "iPhone_4.0_64bit_12.5.6_16H71_Restore.ipsw",
+  "Keys" : "iPhone6,1iPhone6,2",
+  "ProductName" : "iPhone 5s",
+  "SHA1 Hash" : "e3b4bc620abb63591739c90996c549d08964d65d",
+  "link" : "https://updates.cdn-apple.com/2021WinterFCS/fullrestores/012-51809/58C0CEBC-D5EB-4422-9100-CDBEA5F532A8/iPhone_4.0_64bit_12.5.6_16H71_Restore.ipsw",
+  "size" : 3014993882
+ },
+ {
+  "Download URL" : "iPhone_4.7_12.5.6_16H71_Restore.ipsw",
+  "Keys" : "iPhone7,2",
+  "ProductName" : "iPhone 6",
+  "SHA1 Hash" : "8ada8d7d56dd7a51d52e1311d7612725a2117caa",
+  "link" : "https://updates.cdn-apple.com/2021WinterFCS/fullrestores/012-51870/2A494DC9-8DE4-43F8-B084-87E91D5AF9BA/iPhone_4.7_12.5.6_16H71_Restore.ipsw",
+  "size" : 3031238801
+ },
+ {
+  "Download URL" : "iPhone_5.5_12.5.6_16H71_Restore.ipsw",
+  "Keys" : "iPhone7,1",
+  "ProductName" : "iPhone 6 Plus",
+  "SHA1 Hash" : "da424791aba193d8683d9984676debb0b5b3768d",
+  "link" : "https://updates.cdn-apple.com/2021WinterFCS/fullrestores/012-52131/44355EE9-B529-4EEE-B926-21048B2F172C/iPhone_5.5_12.5.6_16H71_Restore.ipsw",
+  "size" : 3183472401
+ },
+ {
+  "Download URL" : "iPhone_4.7_15.7_19H12_Restore.ipsw",
+  "Keys" : "iPhone8,1",
+  "ProductName" : "iPhone 6s",
+  "SHA1 Hash" : "6df195b5b11e1113979140d180a2228455ae9629",
+  "link" : "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-39051/60D8E589-3C30-4416-BEA9-2156217142BC/iPhone_4.7_15.7_19H12_Restore.ipsw",
+  "size" : 5277106915
+ },
+ {
+  "Download URL" : "iPhone_5.5_15.7_19H12_Restore.ipsw",
+  "Keys" : "iPhone8,2",
+  "ProductName" : "iPhone 6s Plus",
+  "SHA1 Hash" : "61045deba8b5cb9a7dfcdc311685cd2e692803af",
+  "link" : "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-39102/8B9B6001-92E2-49EC-969C-1E2BADF5602D/iPhone_5.5_15.7_19H12_Restore.ipsw",
+  "size" : 5434398653
+ },
+ {
+  "Download URL" : "iPhone_4.0_64bit_15.7_19H12_Restore.ipsw",
+  "Keys" : "iPhone8,4",
+  "ProductName" : "iPhone SE (1st generation)",
+  "SHA1 Hash" : "79051fb9410f6d3da1ed85309ae155fc6bd095f7",
+  "link" : "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-39072/BFDAFD43-D3FF-4811-B210-6A104D91A201/iPhone_4.0_64bit_15.7_19H12_Restore.ipsw",
+  "size" : 5236223012
+ },
+ {
+  "Download URL" : "iPhone_4.7_P3_15.7_19H12_Restore.ipsw",
+  "Keys" : "iPhone9,1iPhone9,3",
+  "ProductName" : "iPhone 7",
+  "SHA1 Hash" : "64d8a1ca6790f87bd2923581c47c7e0b87dffb33",
+  "link" : "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-38914/C7764173-5CC4-4D58-8F8B-F093F9A060F0/iPhone_4.7_P3_15.7_19H12_Restore.ipsw",
+  "size" : 5644421408
+ },
+ {
+  "Download URL" : "iPhone_5.5_P3_15.7_19H12_Restore.ipsw",
+  "Keys" : "iPhone9,2iPhone9,4",
+  "ProductName" : "iPhone 7 Plus",
+  "SHA1 Hash" : "6ed97784bf6130006b07187d9ee0781c337241a6",
+  "link" : "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-38894/94B29539-E9B4-4288-B79B-957D8A074982/iPhone_5.5_P3_15.7_19H12_Restore.ipsw",
+  "size" : 5805484240
+ },
+ {
+  "Download URL" : "iPhone_4.7_P3_15.7_19H12_Restore.ipsw",
+  "Keys" : "iPhone10,1iPhone10,4",
+  "ProductName" : "iPhone 8",
+  "SHA1 Hash" : "fa84c6eec0e75e8220eea73c70e3f5706d11788d",
+  "link" : "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-38914/C7764173-5CC4-4D58-8F8B-F093F9A060F0/iPhone_4.7_P3_15.7_19H12_Restore.ipsw",
+  "size" : 5644421408
+ },
+ {
+  "Download URL" : "iPhone_5.5_P3_15.7_19H12_Restore.ipsw",
+  "Keys" : "iPhone10,2iPhone10,5",
+  "ProductName" : "iPhone 8 Plus",
+  "SHA1 Hash" : "8fa7ebcd527335c1633f2b803db7f3972a1f639e",
+  "link" : "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-38894/94B29539-E9B4-4288-B79B-957D8A074982/iPhone_5.5_P3_15.7_19H12_Restore.ipsw",
+  "size" : 5805484240
+ },
+ {
+  "Download URL" : "iPhone10,3,iPhone10,6_15.7_19H12_Restore.ipsw",
+  "Keys" : "iPhone10,3iPhone10,6",
+  "ProductName" : "iPhone X",
+  "SHA1 Hash" : "f053cc1373a929d1af5cb01bfaf880e1740f5889",
+  "link" : "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-39067/20ACC1A5-8816-484B-A176-DB3A54B16299/iPhone10,3,iPhone10,6_15.7_19H12_Restore.ipsw",
+  "size" : 5784625072
+ },
+ {
+  "Download URL" : "iPhone11,8,iPhone12,1_15.7_19H12_Restore.ipsw",
+  "Keys" : "iPhone11,8",
+  "ProductName" : "iPhone XR",
+  "SHA1 Hash" : "25b42ca03ff5d9a40d046850c6c3529622ad34b1",
+  "link" : "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-38949/41BC868E-7BEC-4B46-9943-D16648458A65/iPhone11,8,iPhone12,1_15.7_19H12_Restore.ipsw",
+  "size" : 6794538895
+ },
+ {
+  "Download URL" : "iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.7_19H12_Restore.ipsw",
+  "Keys" : "iPhone11,2",
+  "ProductName" : "iPhone XS",
+  "SHA1 Hash" : "1957c26966bcb64bfee36cd6b54df0e1fa21931e",
+  "link" : "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-39115/DC104483-B40D-4B77-BA44-FE689BF9A8B1/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.7_19H12_Restore.ipsw",
+  "size" : 7268400479
+ },
+ {
+  "Download URL" : "iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.7_19H12_Restore.ipsw",
+  "Keys" : "iPhone11,6",
+  "ProductName" : "iPhone XS Max",
+  "SHA1 Hash" : "1957c26966bcb64bfee36cd6b54df0e1fa21931e",
+  "link" : "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-39115/DC104483-B40D-4B77-BA44-FE689BF9A8B1/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.7_19H12_Restore.ipsw",
+  "size" : 7268400479
+ },
+ {
+  "Download URL" : "iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.7_19H12_Restore.ipsw",
+  "Keys" : "iPhone11,4iPhone11,6",
+  "ProductName" : "iPhone XS Max",
+  "SHA1 Hash" : "1957c26966bcb64bfee36cd6b54df0e1fa21931e",
+  "link" : "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-39115/DC104483-B40D-4B77-BA44-FE689BF9A8B1/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.7_19H12_Restore.ipsw",
+  "size" : 7268400479
+ },
+ {
+  "Download URL" : "iPhone11,8,iPhone12,1_15.7_19H12_Restore.ipsw",
+  "Keys" : "iPhone12,1",
+  "ProductName" : "iPhone 11",
+  "SHA1 Hash" : "7973759df24cbf036b61599e71426949e01335b5",
+  "link" : "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-38949/41BC868E-7BEC-4B46-9943-D16648458A65/iPhone11,8,iPhone12,1_15.7_19H12_Restore.ipsw",
+  "size" : 6794538895
+ },
+ {
+  "Download URL" : "iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.7_19H12_Restore.ipsw",
+  "Keys" : "iPhone12,3",
+  "ProductName" : "iPhone 11 Pro",
+  "SHA1 Hash" : "a8d12ee7a25bada3e421f80d55c3f88e0eaea178",
+  "link" : "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-39115/DC104483-B40D-4B77-BA44-FE689BF9A8B1/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.7_19H12_Restore.ipsw",
+  "size" : 7268400479
+ },
+ {
+  "Download URL" : "iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.7_19H12_Restore.ipsw",
+  "Keys" : "iPhone12,5",
+  "ProductName" : "iPhone 11 Pro Max",
+  "SHA1 Hash" : "a8d12ee7a25bada3e421f80d55c3f88e0eaea178",
+  "link" : "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-39115/DC104483-B40D-4B77-BA44-FE689BF9A8B1/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.7_19H12_Restore.ipsw",
+  "size" : 7268400479
+ },
+ {
+  "Download URL" : "iPhone12,8_15.7_19H12_Restore.ipsw",
+  "Keys" : "iPhone12,8",
+  "ProductName" : "iPhone SE (2nd generation)",
+  "SHA1 Hash" : "2016146c619dfe23d3d4f0fbb4961b774a85ab0b",
+  "link" : "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-38875/5A92883D-5232-4509-95E1-D9117CB65AE1/iPhone12,8_15.7_19H12_Restore.ipsw",
+  "size" : 5961768256
+ },
+ {
+  "Download URL" : "iPhone13,1_15.7_19H12_Restore.ipsw",
+  "Keys" : "iPhone13,1",
+  "ProductName" : "iPhone 12 mini",
+  "SHA1 Hash" : "5d349a1b44b02b4f76d8cf6d766de5b8031f38c6",
+  "link" : "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-39060/01E3CC4D-D9D5-4FD8-9D09-FCFE99256FC2/iPhone13,1_15.7_19H12_Restore.ipsw",
+  "size" : 6438898378
+ },
+ {
+  "Download URL" : "iPhone13,2,iPhone13,3_15.7_19H12_Restore.ipsw",
+  "Keys" : "iPhone13,2",
+  "ProductName" : "iPhone 12",
+  "SHA1 Hash" : "06d78c035421f5c00ff16239aa461594b40e6f93",
+  "link" : "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-38864/4F3FAFAC-8BD4-4D43-AE75-CD78E7628C48/iPhone13,2,iPhone13,3_15.7_19H12_Restore.ipsw",
+  "size" : 6690691788
+ },
+ {
+  "Download URL" : "iPhone13,2,iPhone13,3_15.7_19H12_Restore.ipsw",
+  "Keys" : "iPhone13,3",
+  "ProductName" : "iPhone 12 Pro",
+  "SHA1 Hash" : "06d78c035421f5c00ff16239aa461594b40e6f93",
+  "link" : "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-38864/4F3FAFAC-8BD4-4D43-AE75-CD78E7628C48/iPhone13,2,iPhone13,3_15.7_19H12_Restore.ipsw",
+  "size" : 6690691788
+ },
+ {
+  "Download URL" : "iPhone13,4_15.7_19H12_Restore.ipsw",
+  "Keys" : "iPhone13,4",
+  "ProductName" : "iPhone 12 Pro Max",
+  "SHA1 Hash" : "b09037c46926da0e8fc2678913c700f5f0264e24",
+  "link" : "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-38946/A9832DD4-C25D-43BC-ACF9-1A28C09A8A4B/iPhone13,4_15.7_19H12_Restore.ipsw",
+  "size" : 6543108150
+ },
+ {
+  "Download URL" : "iPhone14,2_15.7_19H12_Restore.ipsw",
+  "Keys" : "iPhone14,2",
+  "ProductName" : "iPhone 13 Pro",
+  "SHA1 Hash" : "4124c8239686fb207ec847c4f8189c49d50b9286",
+  "link" : "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-39023/4003229C-E504-4FEC-BD31-130A5D569CA7/iPhone14,2_15.7_19H12_Restore.ipsw",
+  "size" : 6540224740
+ },
+ {
+  "Download URL" : "iPhone14,3_15.7_19H12_Restore.ipsw",
+  "Keys" : "iPhone14,3",
+  "ProductName" : "iPhone 13 Pro Max",
+  "SHA1 Hash" : "1dc710cdeaa3780bb3996219118b89979674996f",
+  "link" : "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-38989/A7D49452-9B91-4E2E-9325-64AEA778972E/iPhone14,3_15.7_19H12_Restore.ipsw",
+  "size" : 6066333801
+ },
+ {
+  "Download URL" : "iPhone14,4_15.7_19H12_Restore.ipsw",
+  "Keys" : "iPhone14,4",
+  "ProductName" : "iPhone 13 mini",
+  "SHA1 Hash" : "48f5254ec13008ea11d0b1d2e91361830b073d7c",
+  "link" : "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-38985/6F0E9F60-0CE9-4AD1-A029-87157AF44C33/iPhone14,4_15.7_19H12_Restore.ipsw",
+  "size" : 6491716755
+ },
+ {
+  "Download URL" : "iPhone14,5_15.7_19H12_Restore.ipsw",
+  "Keys" : "iPhone14,5",
+  "ProductName" : "iPhone 13",
+  "SHA1 Hash" : "fdee2a75589e384d896efef61c9d7e19d89ca34b",
+  "link" : "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-39016/4FCF4672-8B76-45B3-AD09-38794781059C/iPhone14,5_15.7_19H12_Restore.ipsw",
+  "size" : 6499612542
+ }
 ]
